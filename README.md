@@ -1,8 +1,8 @@
-<h1 align="center"> Expense Tracker 💸 </h1>
+<h1 align="center"> Weather App ☁️ </h1>
 
 
 
-[Expense-Tracker](https://github.com/Nisarg-27/Weather-App) is a web application which simply shows you the current weather conditions by simply entering the city name you are in. 
+[Weather-App](https://github.com/Nisarg-27/Weather-App) is a web application which simply shows you the current weather conditions by simply entering the city name you are in. 
 
 It shows you condescend weather information like humidity, cloudynes, wind, etc. 
 
@@ -17,7 +17,8 @@ It shows you condescend weather information like humidity, cloudynes, wind, etc.
 
 ## Demo
 
-Still In Progress
+![screencapture-localhost-3000-2022-06-15-23_28_09](https://user-images.githubusercontent.com/77735347/173893955-758ff091-ab04-4edf-a5ce-adf25af41fb1.png)
+
 
 ## API
 
