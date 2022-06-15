@@ -1,0 +1,36 @@
+.block{
+    width: 70%;
+    height: 150px;
+    align-self: flex-end;
+    margin: 20px;
+    display: flex;
+}
+.temperature-block{
+    width: 35%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.temperature-block .temperature{
+    font-size: 110px;
+    letter-spacing: 1px;
+    color: white;
+}
+
+.info-block{
+    width: 55%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-right: 20px;
+}
+.info-block .city{
+    font-size: 80px;
+    color: white;
+}
+.info-block .date-time{
+    font-size: 20px;
+    color: white;
+}

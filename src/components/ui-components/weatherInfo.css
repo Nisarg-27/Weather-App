@@ -1,0 +1,29 @@
+.weather-info-box{
+    width: 80%;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.head{
+    font-size: 20px;
+    color: #ffff;
+    border-bottom: 20px;
+}
+
+.weather-info-box .info-box{
+    width: 90%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.weather-info-box .info-box span{
+    font-size: 18px;
+}
+.weather-info-box .info-box .info{
+    color: #9BB3C8;
+}
+.weather-info-box .info-box .value{
+    color: #ffff;
+
+}

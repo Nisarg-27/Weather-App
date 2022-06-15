@@ -1,0 +1,6 @@
+.left-box{
+    width: 65%;
+    height: 100%;
+    background-size:cover;
+    display: flex;
+}

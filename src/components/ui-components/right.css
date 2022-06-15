@@ -1,0 +1,15 @@
+.right-box{
+    width: 35%;
+    height: 100%;
+}
+.inner-right-box{
+    background-color: rgba(41, 95, 133, 0.75);
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(10px);
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
